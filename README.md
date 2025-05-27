@@ -1,3 +1,5 @@
+[![Live Site](https://img.shields.io/badge/View%20Live-App-green)](https://srkiftekhar.github.io/Registration-Form)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
